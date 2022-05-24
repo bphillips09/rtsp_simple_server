@@ -9,6 +9,7 @@
     "armhf",
     "armv7"
   ],
+"full_access": true,
 "boot": "auto",
   "legacy": true,
   "ports": {
